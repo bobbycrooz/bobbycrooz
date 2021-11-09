@@ -1,19 +1,18 @@
 ![template](/template.jpg)
 
-<h1 align="center">Hi 👋, I'm Fuad Olatunji</h1>
-<h3 align="center">I'm a Backend and Mobile Developer using MERN Stack and Golang to make software.</h3>
+<h1 align="center">Hi 👋, I'm Idris Ifeoluwa</h1>
+<h3 align="center">I'm a full-stack and Mobile Developer using MERN Stack and flutter to develope apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>
 
-- 🌱 I’m currently learning **Golang, Blockchain.**
+- 🌱 I’m currently learning **NodeJs, ReactJs, Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fuadop?tab=repositories](https://github.com/fuadop?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/fuadop?tab=repositories](https://github.com/bobbycrooz?tab=repositories)
 
 - 💬 Ask me about **Nodejs, Reactjs, React Native, Typescript, Golang, etc.**
 
 - 📫 How to reach me **fuad@fuadolatunji.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NPRv5GiwcKVDaIf_lssLQaV0EnGLlPQV/view?usp=sharing](https://drive.google.com/file/d/1NPRv5GiwcKVDaIf_lssLQaV0EnGLlPQV/view?usp=sharing)
 
 - ⚡ Fun fact **I watch anime.**
 
