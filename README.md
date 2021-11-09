@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Nodejs, Reactjs, React Native, Typescript, Golang, etc.**
 
-- 📫 How to reach me **fuad@fuadolatunji.me**
+- 📫 How to reach me **bobbycrooz**
 
 
 - ⚡ Fun fact **I watch anime.**
