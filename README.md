@@ -1,10 +1,11 @@
 
   
+# portfolio-server
+
           ![template](/template.jpg)
 
           <h1 align="center">Hi 👋, I'm Idris Ifeoluwa</h1>
           <h3 align="center">I'm a full-stack and Mobile Developer using MERN Stack and React native to develope apps.</h3>
-
           <p align="left">
                <img
                     src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat"
@@ -12,7 +13,7 @@
                />
           </p>
 
-          - 🌱 I’m currently learning **NodeJs, ReactJs, 
+          - 🌱 I’m currently learning **NodeJs, ReactJs,
           react native.** - 👨‍💻 All of my projects are available at
           [My repo](https://github.com/bobbycrooz?tab=repositories) - 💬 Ask me about
           **Nodejs, Reactjs, React Native, Typescript, Golang, etc.** - 📫 How to reach me **bobbycrooz** - ⚡ Fun fact
@@ -52,7 +53,7 @@
                          height="30"
                          width="40"
                /></a>
-          
+
                <a href="" target="blank"
                     ><img
                          align="center"
@@ -73,7 +74,7 @@
                          height="40"
                     />
                </a>
-       
+
                <a href="https://azure.microsoft.com/en-in/" target="_blank">
                     <img
                          src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -381,5 +382,4 @@
                          alt="fuadop"
                /></a>
           </p>
-          <br /><br />
-     
+
